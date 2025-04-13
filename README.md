@@ -26,3 +26,53 @@
 Реферальная система — за приглашение друзей даём бонусные ЭкоБаллы.
 
 ЭкоКарта — карта, где пользователи отмечают важные точки: урны, пункты переработки, веган-кафе, энергозаправки и т.п.
+
+## Тип моего проекта:
+> Telegram-бот
+
+## Библиотеки, которые я буду использовать
+- Библиотека 1 - telebot
+- Библиотека 2 - telethon
+- Библиотека 3 - os
+- Библиотека 4 - requests
+- Библиотека 5 - random
+
+## Референсы, которые мне пригодятся
+- Референс 1 - https://github.com/Swirchez/SwrzTelegramBot.git
+- Референс 2 - https://github.com/Swirchez/TGbot.git
+- Референс 3 - https://github.com/Swirchez/bs-telegram-bot.git
+
+## Гайды-статьи, где есть полезная для меня информация
+Для создания бота:
+
+Основы создания Telegram-бота - Official Telegram Bot API https://core.telegram.org/bots/api
+
+Бесплатный хостинг для бота - PythonAnywhere https://www.pythonanywhere.com/**
+
+Визуальный конструктор ботов - BotFather https://telegram.me/BotFather
+
+Для экологических данных:
+
+Калькулятор углеродного следа - Carbon Footprint Calculator https://www.carbonfootprint.com/calculator.aspx
+
+База экологических организаций - EarthDay.org https://www.earthday.org/
+
+Карта пунктов переработки - RecycleMap https://recyclemap.ru/
+
+Для дизайна:
+
+Бесплатные иконки для бота - Flaticon https://www.flaticon.com/
+
+Создание простой графики - Canva https://www.canva.com/
+
+Для вдохновения:
+
+Примеры экологических проектов - UN Environment Programme https://www.unep.org/
+
+Идеи для эко-активизма - Greenpeace https://www.greenpeace.org/international/
+
+Для программирования:
+
+Учебник по Python - Python Official Docs https://docs.python.org/3/
+
+Библиотека для ботов - python-telegram-bot https://python-telegram-bot.org/
